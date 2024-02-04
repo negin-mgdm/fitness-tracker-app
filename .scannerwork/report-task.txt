@@ -1,0 +1,6 @@
+projectKey=capstone-database
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=capstone-database
+ceTaskId=AYt8-EK5VxZgzwUkMsp5
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYt8-EK5VxZgzwUkMsp5
